@@ -6,3 +6,4 @@
 
 #+INCLUDE: "./chap03sec1.org" :minlevel 3
 #+INCLUDE: "./chap03sec2.org" :minlevel 3
+#+INCLUDE: "./chap03sec3.org" :minlevel 3
