@@ -20,6 +20,10 @@
 
 其实是可以按照 properties 来排序的，所以决定每篇文章的 custom_id 都是文章的刊发日期——希望鲁迅不会勤奋到同一天写两篇文章骂不同的人吧，我不知道 custom_id 是否要求全局唯一（还是说同一个 parent 下唯一就行了？），第一章第一节的 custom_id 需要修改一下。
 
+*** <2019-12-31 二>
+
+亚马逊 Kindle 版本复制到一定程度就不允许复制了，真是我去你的吧。
+
 #+INCLUDE: "./chap01.org" :minlevel 2
 
 #+INCLUDE: "./chap02.org" :minlevel 2
