@@ -1,0 +1,8 @@
+#+STARTUP: showall
+** 左翼文坛内部之争
+   :PROPERTIES:
+   :CUSTOM_ID: chap04
+   :END:
+
+#+INCLUDE: "./chap04sec1.org" :minlevel 3
+
